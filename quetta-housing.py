@@ -57,3 +57,5 @@ plt.ylabel("Predicted Price (PKR)")
 plt.title("Actual vs Predicted - Quetta Housing")
 plt.savefig("quetta_predictions.png")
 plt.show()
+
+
